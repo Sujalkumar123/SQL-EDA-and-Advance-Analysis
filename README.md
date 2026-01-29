@@ -1,4 +1,4 @@
-# SQL Analytics & Reporting Project
+# SQL Exploration Data Analysis(EDA) & Advance Analysis
 
 A comprehensive collection of **SQL scripts** designed for **data exploration, analytics, and reporting**.  
 This repository focuses on real-world analytical scenarios and demonstrates **best practices in SQL** for analyzing relational databases.
