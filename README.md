@@ -1,5 +1,5 @@
 # SQL-EDA-and-Advance-Analysis-
-##A comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting.
+A comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting.
 
 This repository includes a wide range of analytical queries covering database exploration, key metrics and measures, time-based trend analysis, cumulative analytics, customer and product segmentation, and more.
 
